@@ -1,9 +1,8 @@
 --Example to alter a table to add a computed column.
-<<<<<<< HEAD
+
 --CHG02-20190704 (04/07/2019)
-=======
 --CHG01-20190704. (04/07/2019)
->>>>>>> CHG01-20190704
+
 
 use myDatabase
 GO
