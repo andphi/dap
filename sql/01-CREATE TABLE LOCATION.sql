@@ -1,6 +1,7 @@
 USE myDatabase
 GO
 --CHG03-20190704 (04/07/2019)
+--22/07/2024 
 
 CREATE TABLE LOCATION
 	(LOCATION_ID int, LOCATION varchar(75), x int, y int);
