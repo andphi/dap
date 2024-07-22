@@ -14,4 +14,4 @@ SELECT TOP 100 PERCENT
 	,SUM([Bronze]) as Bronzes
 FROM [dbo].[Athletes]
 GROUP BY [Country],[Sport]
-ORDER BY SUM([Gold]) DESC,SUM([Silver]) DESC, SUM([Bronze]) DESC
+ORDER BY SUM([Gold]) DESC,SUM([Silver]) DESC, SUM([Bronze]) DESC;
